@@ -7,7 +7,7 @@ Join my discord: https://discord.gg/aAsYFUu
 
 
 
-Join website: https://forums.arma3-roleplay.com/
+Join website: http://forums.scripyleaks.club/
 
 Credits:
 T_D
