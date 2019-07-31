@@ -3,11 +3,8 @@ P3DDebinarizer converts binarized p3d models (ODOL format) to editable MLOD form
 
 
 Add me on discord: JimBob#2999
-Join my discord: https://discord.gg/aAsYFUu
 
-
-
-Join website: http://forums.scripyleaks.club/
+https://discord.gg/5EDFdP4
 
 Credits:
 T_D
